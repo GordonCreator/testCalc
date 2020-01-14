@@ -14,6 +14,7 @@ import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
 
+// Test message
 public class MiniCalc extends Application{
 
 	String eingabe ="";
